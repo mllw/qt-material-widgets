@@ -1,4 +1,6 @@
 TEMPLATE = lib
+QT += statemachine
+
 CONFIG += staticlib
 SOURCES = \
     qtmaterialavatar.cpp \
@@ -128,3 +130,4 @@ HEADERS = \
     qtmateriallistitem_p.h
 RESOURCES += \
     resources.qrc
+

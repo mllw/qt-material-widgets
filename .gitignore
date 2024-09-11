@@ -6,3 +6,6 @@ release/
 .vs/
 *.sln
 ui_*.h
+build/
+
+*.txt.user
