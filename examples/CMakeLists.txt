@@ -79,4 +79,4 @@ Qt${QT_VERSION_MAJOR}::Widgets
 Qt${QT_VERSION_MAJOR}::StateMachine
 )
 
-target_include_directories(examples PRIVATE ${CMAKE_CURRENT_LIST_DIR}/../components)
+# target_include_directories(examples PRIVATE ${CMAKE_CURRENT_LIST_DIR}/../components)

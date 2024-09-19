@@ -140,5 +140,5 @@ target_link_libraries(
     Qt${QT_VERSION_MAJOR}::StateMachine
 )
 
-
+target_include_directories(components PUBLIC ${CMAKE_CURRENT_LIST_DIR})
 
